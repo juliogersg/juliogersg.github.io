@@ -346,6 +346,8 @@ a:hover
 
     margin-top: 2em;
     margin-bottom: 2.2em;
+
+    text-align: justify;
 }
 
 #intro .container-mid a
@@ -534,6 +536,8 @@ a:hover
     line-height: 1.5em;
 
     margin-bottom: 2em;
+
+    text-align: justify;
 }
 
 #about p:last-child
